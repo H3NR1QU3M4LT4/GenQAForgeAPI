@@ -1,0 +1,9 @@
+anyio
+email-validator
+fastapi
+pydantic
+python-dotenv
+python-multipart==0.0.6
+starlette
+typing_extensions
+uvicorn
